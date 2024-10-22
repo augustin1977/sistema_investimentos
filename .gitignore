@@ -1,0 +1,12 @@
+# Django #
+*.log
+*.pot
+*.pyc
+*.txt
+__pycache__
+db.sqlite3
+media
+variables.*
+secret.py
+db.sqlite3*
+
